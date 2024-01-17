@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitwiseApplication", "SplitwiseApplication\SplitwiseApplication.csproj", "{BB98F2EB-0A5B-456E-B4EF-187872B9F704}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB98F2EB-0A5B-456E-B4EF-187872B9F704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB98F2EB-0A5B-456E-B4EF-187872B9F704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB98F2EB-0A5B-456E-B4EF-187872B9F704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB98F2EB-0A5B-456E-B4EF-187872B9F704}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91ED980B-11C6-471D-8ED6-18FF47F82401}
+	EndGlobalSection
+EndGlobal
